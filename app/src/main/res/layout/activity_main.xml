@@ -40,5 +40,5 @@
         android:layout_height="wrap_content"
         android:text="Free Throw"
         android:layout_margin="15dp"/>
-
+    /^comment to test git*/
 </LinearLayout>
